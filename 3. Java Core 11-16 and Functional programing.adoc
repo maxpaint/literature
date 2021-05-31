@@ -1,0 +1,14 @@
+== Java Core 11/16 and Functional programing
+
+=== Books:
+
+* Effective Java: Programming Language Guide by _Joshua BlochJava_
+* Thinking in Java 4th Edition by _Bruce Eckel_
+* Core Java: Fundamentals by _Horstmann C., Cornell G._
+* Java 8 Lambdas: Functional Programming For The Masses 1st Edition by _Richard Warburton_
+
+=== Video courses:
+
+* Java для тестировщиков https://www.youtube.com/watch?v=DKy4KzIn1qg&list=PLwlmWHdR-P_oDOzhOQsK6XX311G0TaWG8[youtube]
+* Головач Java Core https://www.youtube.com/watch?v=xXtDmE5fHf4&list=PLwcDaxeEINaeOqd15C3D0PwotuKknFwxF[youtube]
+* Николай Алименков — Java 8: Хороший, плохой, злой https://www.youtube.com/watch?v=7Iy1hVEXxsU[youtube]
