@@ -1,0 +1,14 @@
+== JDBC / Hibernate / JPA etc
+
+=== Books:
+
+* High-Performance Java Persistence - eBook by Vlad Mihalcea
+
+=== Courses:
+
+* High-Performance Java Persistence - Online Edition by _Vlad Mihalcea_
+
+=== Videos:
+
+* Николай Алименков — Босиком по граблям Hibernate https://www.youtube.com/watch?v=YzOTZTt-PR0[youtube]
+* Вячеслав Круглов — Введение в Hibernate: что, зачем, и где стандартные ловушки https://www.youtube.com/watch?v=C-wEZjEOhWc [youtube]

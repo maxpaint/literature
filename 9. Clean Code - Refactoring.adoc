@@ -1,0 +1,9 @@
+== Clean Code / Refactoring
+
+=== Courses:
+
+* Dive Into REFACTORING https://refactoring.guru/refactoring/course[refactoring.guru]
+
+=== Books:
+
+* Clean Code Book by _Robert Cecil Martin_

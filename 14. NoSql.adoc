@@ -1,0 +1,34 @@
+== NoSql
+
+=== Articles:
+
+* Всё, что вы не знали о CAP теореме https://habr.com/ru/post/328792/[habr]
+* CAP-теорема простым, доступным языком https://habr.com/ru/post/130577/[habr]
+
+== ElasticSearch
+
+=== Documentations:
+
+* Elasticsearch Guide https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html[elastic.co]
+
+=== Articles:
+
+* С чего начинается Elasticsearch https://habr.com/ru/post/489924/[habr]
+* ElasticSearch и поиск наоборот. Percolate API https://habr.com/ru/company/smartprogress/blog/226749/[habr]
+* A Basic Guide To Elasticsearch Aggregations https://logz.io/blog/elasticsearch-aggregations/[logz.io]
+* Best Practices for Managing Elasticsearch Indices https://logz.io/blog/managing-elasticsearch-indices/[logz.io]
+* 10 Elasticsearch Concepts You Need to Learn https://logz.io/blog/10-elasticsearch-concepts/[logz.io]
+* 5 Best Practices For Keeping Your Elasticsearch Secure https://logz.io/blog/elasticsearch-security-work-from-home/[logz.io]
+
+
+=== Courses:
+
+* Complete Guide to Elasticsearch https://www.udemy.com/course/elasticsearch-complete-guide/[udemy]
+
+== Cassandra
+
+=== Courses:
+
+* DS101: Introduction to Apache Cassandra https://academy.datastax.com/#/online-courses/0da20519-364d-47a9-9916-b59c02175393[academy.datastax.com], https://www.slideshare.net/planetcassandra/cassandra-core-concepts-58477184[presentation]
+* DS201: DataStax Enterprise 6 Foundations of Apache Cassandra https://academy.datastax.com/#/online-courses/6167eee3-0575-4d88-9f80-f2270587ce23[academy.datastax.com]
+* DS220: DataStax Enterprise 6 Practical Application Data Modeling with Apache Cassandra https://academy.datastax.com/#/online-courses/ca2e1209-510b-44a6-97de-d5219d835319[academy.datastax.com]

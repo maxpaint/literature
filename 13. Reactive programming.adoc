@@ -1,0 +1,17 @@
+== Reactive Programming
+
+=== Documentations:
+
+* Project reactor https://projectreactor.io/docs[projectreactor]
+
+=== Vidoes:
+
+* Сергей Егоров — Не будь Гомером Симпсоном для своего Reactor-а! https://www.youtube.com/watch?v=MU4wjB5CE-c[youtube]
+* Refactor to Reactive With Spring 5 and Project Reactor. Олег Докука https://www.youtube.com/watch?v=KCTr381Rl6U[youtube]
+* Reactive Hardcore. How to build a Publisher and implement own Project Reactor part1 https://www.youtube.com/watch?v=OdSZ6mOQDcY&t[youtube]
+* Reactive Hardcore. How to build a Publisher and implement own Project Reactor part2 https://www.youtube.com/watch?v=noeWdjO4fyU[youtube]
+* Reactive Hardcore. How to build a Publisher and implement own Project Reactor part3 https://www.youtube.com/watch?v=cVKhFPiebSs&t[youtube]
+* Avoiding Reactor Meltdown https://www.youtube.com/watch?v=xCu73WVg8Ps[youtube]
+
+
+=== Books:

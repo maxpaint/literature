@@ -1,0 +1,24 @@
+== SQL
+
+=== Articles:
+
+* A beginner’s guide to database table relationships, https://vladmihalcea.com/database-table-relationships/[vladmihalcea]
+* ACID:
+** Требования ACID на простом языке https://habr.com/ru/post/555920/[habr]
+** Насколько много маркетинга в ACID? https://habr.com/ru/company/otus/blog/494652/[habr]
+* Нормализация отношений. Шесть нормальных форм https://habr.com/ru/post/254773/[habr]
+* 10 Rules for a Better SQL Schema, https://www.sisense.com/blog/better-sql-schema/[sisense]
+* К чему может привести ослабление уровня изоляции транзакций в базах данных https://habr.com/ru/company/otus/blog/501294/[habr]
+
+=== Courses:
+
+* Free course and platform for practice https://www.w3schools.com/sql/[w3schools]
+* Лекции Технопарка. 2 семестр. Базы данных https://habr.com/ru/company/mailru/blog/254073/[habr]
+
+=== Practice resources:
+* Practice on  https://leetcode.com/problemset/database/[leetcode]
+
+=== Book:
+* Learning SQL, 3rd Edition by _Alan Beaulieu_
+* SQL Performance Explained Everything Developers Need to Know about SQL Performance by _Markus Winand._
+

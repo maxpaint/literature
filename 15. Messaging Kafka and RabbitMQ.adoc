@@ -1,0 +1,31 @@
+== Messaging Kafka/RabbitMQ
+
+=== Articles:
+
+* Понимание брокеров сообщений. Изучение механики обмена сообщениями посредством ActiveMQ и Kafka
+https://habr.com/ru/post/466385/[habr part1],
+https://habr.com/ru/post/471268/[habr part2],
+https://habr.com/ru/post/466585/[habr part3]
+
+=== Books:
+
+* Understanding Message Brokers by _Jakub Korab_
+
+== Kafka
+
+=== Books:
+
+* Kafka: The Definitive Guide v2 https://www.confluent.io/resources/kafka-the-definitive-guide-v2/[confluent.io]
+
+=== Courses:
+
+* Apache Kafka Series - Learn Apache Kafka for Beginners v2 https://www.udemy.com/course/apache-kafka/[udemy]
+* Apache Kafka Series - Kafka Connect Hands-on Learning https://www.udemy.com/course/kafka-connect/[udemy]
+* Apache Kafka Series - Confluent Schema Registry & REST Proxy https://www.udemy.com/course/confluent-schema-registry/[udemy]
+* Apache Kafka Series - KSQL on ksqlDB for Stream Processing! https://www.udemy.com/course/kafka-ksql/[udemy]
+
+== RabbitMQ
+
+=== Documentations:
+
+*

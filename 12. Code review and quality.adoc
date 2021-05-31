@@ -1,0 +1,15 @@
+== Code review and quality (flows and practices, metrics, tools)
+
+=== Books:
+
+* Free book from java champion _Trisha Gee_.
+https://leanpub.com/whattolookforinacodereview[“What to Look for in a Code Review”]
+
+=== Articles:
+
+* The Art of Small Pull Requests, https://essenceofcode.com/2019/10/29/the-art-of-small-pull-requests/[essenceofcode]
+* Code Review Guidelines for Humans, https://phauer.com/2018/code-review-guidelines/[phauer]
+
+=== Video/Presentation:
+
+* How to Successfully Grow a Code Review Culture, https://slideslive.com/38898262/how-to-successfully-grow-a-code-review-culture[slideslive.com]

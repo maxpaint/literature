@@ -1,0 +1,31 @@
+== Multithreading, concurrency and JMM
+
+=== Articles:
+
+* Разбор основных концепций параллелизма https://habr.com/ru/company/otus/blog/353414/[habr]
+* Многопоточное программирование в Java 8
+https://tproger.ru/translations/java8-concurrency-tutorial-1/[part 1],
+https://tproger.ru/translations/java8-concurrency-tutorial-2/[part 2],
+https://tproger.ru/translations/java8-concurrency-tutorial-3/[part 3]
+* java.util.concurrent.* https://habr.com/ru/post/277669/[habr]
+* Как работает ConcurrentHashMap https://habr.com/ru/post/132884/[habr]
+* 10 советов по использованию ExecutorService, https://habr.com/ru/post/260953/[habr]
+* Руководство по Fork/Join Framework в Java https://www.codeflow.site/ru/article/java-fork-join[codeflow]
+* How to Handle Died Threads due to Uncaught Exceptions in Java, https://aozturk.medium.com/how-to-handle-uncaught-exceptions-in-java-abf819347906[aozturk.medium.com]
+* Guide To CompletableFuture https://www.baeldung.com/java-completablefuture[baeldung]
+* Управление памятью Java, https://habr.com/ru/post/549176/[habr]
+* Дюк, вынеси мусор!
+https://habr.com/ru/post/269621/[part 1],
+https://habr.com/ru/post/269707/[part 2],
+https://habr.com/ru/post/269863/[part 3]
+* Из 8 в 13: полный обзор версий Java,
+https://javarush.ru/groups/posts/2547-iz-8-v-13-polnihy-obzor-versiy-java-chastjh-1[part1],
+https://javarush.ru/groups/posts/2549-iz-8-v-13-polnihy-obzor-versiy-java-chastjh-2[part2]
+
+=== Books:
+
+* java concurrency in practice by _Brian Goetz_
+
+=== Courses:
+
+* Parallel, Concurrent, and Distributed Programming in Java Specialization https://www.coursera.org/specializations/pcdp[coursera]

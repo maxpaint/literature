@@ -1,0 +1,7 @@
+== Software architecture patterns and practices
+
+== Books:
+
+* Software Architecture Patterns by _mark richards_
+* Thinking Architecturally by _Nathaniel Schutta_ https://tanzu.vmware.com/content/ebooks/thinking-architecturally[tanzu.vmware.com]
+* Designing Event-Driven Systems by _Ben Stopford_, https://www.confluent.io/designing-event-driven-systems/[confluent.io]

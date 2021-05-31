@@ -1,0 +1,9 @@
+== REST API
+
+=== Articles:
+
+* REST API Tutorial https://restfulapi.net/[restfulapi.net]
+* REST API Best Practices https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/[stackoverflow],
+https://habr.com/ru/post/351890/[habr]
+* Best Practices for REST API Error Handling https://www.baeldung.com/rest-api-error-handling-best-practices[baeldung]
+* Learn REST: A RESTful Tutorial https://www.restapitutorial.com/[restapitutorial.com], https://restapitutorial.ru/[restapitutorial.ru]

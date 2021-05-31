@@ -1,0 +1,13 @@
+== Testing
+
+=== Articles:
+
+* Modern Best Practices for Testing in Java https://phauer.com/2019/modern-best-practices-testing-java/[phauer],
+https://habr.com/ru/company/funcorp/blog/517724/[habr]
+* Writing Clean Tests – Naming Matters https://www.petrikainulainen.net/programming/testing/writing-clean-tests-naming-matters/[petrikainulainen]
+* The Practical Test Pyramid, https://martinfowler.com/articles/practical-test-pyramid.html[martinfowler], https://habr.com/ru/post/358950/[habr]
+* Just Say No to More End-to-End Tests, https://testing.googleblog.com/2015/04/just-say-no-to-more-end-to-end-tests.html[testing.googleblog]
+* Testing Strategies in a Microservice Architecture, https://martinfowler.com/articles/microservice-testing/[microservice]
+
+=== Books:
+* The Practical Test Pyramid free book by _Ham Vocke_ https://www.hamvocke.com/blog/ebook-testing-microservices/[hamvocke]

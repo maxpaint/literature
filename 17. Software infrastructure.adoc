@@ -1,0 +1,34 @@
+== Software infrastructure
+
+== GIT
+
+=== Articles:
+
+* Git Flow
+** Удачная модель ветвления для Git https://habr.com/ru/post/106912/[habr]
+** Рабочий процесс Gitflow Workflow https://www.atlassian.com/ru/git/tutorials/comparing-workflows/gitflow-workflow[atlassian.com]
+** Пожалуйста, перестаньте рекомендовать Git Flow https://habr.com/ru/company/flant/blog/491320/[habr]
+
+* Rebase Flow
+** Rebase Flow. Способ приготовления и его поддержка в GitHub, GitLab, BitBucket https://habr.com/ru/company/at_consulting/blog/283326/[habr]
+
+* GitHub Flow
+** GitHub Flow: рабочий процесс Гитхаба https://habr.com/ru/post/189046/[habr]
+** Understanding the GitHub flow https://guides.github.com/introduction/flow/[guides.github.com]
+
+* Forking Workflow
+** Forking Workflow https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow[atlassian.com]
+
+* Trunk Based Development
+** Почему Trunk Based Development – лучшая модель ветвления. Андрей Александров https://habr.com/ru/post/519314/[habr]
+
+=== Books:
+
+* Pro Git https://git-scm.com/book/en/v2[git-scm.com]
+
+== Kubernetes
+
+== Terraform
+
+
+

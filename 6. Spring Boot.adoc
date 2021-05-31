@@ -1,0 +1,27 @@
+=== Spring Boot
+
+=== Documentations
+
+* Spring Boot Reference Documentation https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/[spring.io]
+
+=== Courses:
+* Master Microservices with Spring Boot and Spring Cloud https://www.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/ [udemy]
+
+=== Books:
+* Pro Spring 5: An In-Depth Guide to the Spring Framework and Its Tools Kindle Edition
+by _Iuliana Cosmina , Rob Harrop , Chris Schaefer , Clarence Ho_
+https://www.amazon.com/Pro-Spring-Depth-Guide-Framework-ebook/dp/B076FQ5KFK[amazon]
+
+* Hands-On Microservices with Spring Boot and Spring Cloud By _Magnus Larsson_ https://www.packtpub.com/product/hands-on-microservices-with-spring-boot-and-spring-cloud/9781789613476[packt]
+
+=== Videos:
+
+* Test Driven Spring Boot applications, part 1 https://www.youtube.com/watch?v=CbI_EQ59Sy8&t[youtube]
+* Test Driven Spring Boot applications, part 2 https://www.youtube.com/watch?v=8QNPIrAIhTI[youtube]
+* Евгений Борисов — Spring-потрошитель, часть 1 https://www.youtube.com/watch?v=BmBr5diz8WA[youtube]
+* Евгений Борисов — Spring-потрошитель, часть 2 https://www.youtube.com/watch?v=cou_qomYLNU[youtube]
+
+=== Articles:
+
+Guide to Spring @Autowired, https://www.baeldung.com/spring-autowire[baeldung]
+Spring – Injecting Collections, https://www.baeldung.com/spring-injecting-collections[baeldung]
