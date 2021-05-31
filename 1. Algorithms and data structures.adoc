@@ -1,0 +1,11 @@
+== Algorithms and data structures
+
+=== Answers:
+
+* Data Structure Interview Questions, https://www.javatpoint.com/data-structure-interview-questions[link]
+* HashMap, link
+* LinkedList, link
+* ArrayList, link
+* LinkedHashMap, link
+* Java Collections Framework, link
+* Grokking Algorithms - Manning
