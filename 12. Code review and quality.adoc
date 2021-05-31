@@ -2,8 +2,8 @@
 
 === Books:
 
-* Free book from java champion _Trisha Gee_.
-https://leanpub.com/whattolookforinacodereview[“What to Look for in a Code Review”]
+* “What to Look for in a Code Review” Free book from java champion _Trisha Gee_.
+https://leanpub.com/whattolookforinacodereview[leanpub]
 
 === Articles:
 

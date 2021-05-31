@@ -6,12 +6,12 @@
 
 === Books:
 
-* Head First Design Patterns: A Brain-Friendly Guide 1st Edition by _Eric Freeman, Bert Bates, Kathy Sierra, Elisabeth Robson_ https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124 [link]
+* Head First Design Patterns: A Brain-Friendly Guide 1st Edition by _Eric Freeman, Bert Bates, Kathy Sierra, Elisabeth Robson_ https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124[amazon]
 
-* Dive Into design patterns https://refactoring.guru/design-patterns/book[link]
+* Dive Into design patterns https://refactoring.guru/design-patterns/book[refactoring.guru]
 
 === Articles
 
-* portal with all GoF patterns https://refactoring.guru/design-patterns[link]
-* Dry https://habr.com/ru/company/mailru/blog/349978/[Ошибочное понимание принципа DRY]
-* KISS https://habr.com/ru/company/pixonic/blog/427797/[Принцип KISS в разработке]
+* portal with all GoF patterns https://refactoring.guru/design-patterns[refactoring.guru]
+* Ошибочное понимание принципа DRY https://habr.com/ru/company/mailru/blog/349978/[habr]
+* Принцип KISS в разработке https://habr.com/ru/company/pixonic/blog/427797/[habr]

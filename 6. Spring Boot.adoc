@@ -5,7 +5,7 @@
 * Spring Boot Reference Documentation https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/[spring.io]
 
 === Courses:
-* Master Microservices with Spring Boot and Spring Cloud https://www.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/ [udemy]
+* Master Microservices with Spring Boot and Spring Cloud https://www.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/[udemy]
 
 === Books:
 * Pro Spring 5: An In-Depth Guide to the Spring Framework and Its Tools Kindle Edition

@@ -11,4 +11,4 @@
 === Videos:
 
 * Николай Алименков — Босиком по граблям Hibernate https://www.youtube.com/watch?v=YzOTZTt-PR0[youtube]
-* Вячеслав Круглов — Введение в Hibernate: что, зачем, и где стандартные ловушки https://www.youtube.com/watch?v=C-wEZjEOhWc [youtube]
+* Вячеслав Круглов — Введение в Hibernate: что, зачем, и где стандартные ловушки https://www.youtube.com/watch?v=C-wEZjEOhWc[youtube]

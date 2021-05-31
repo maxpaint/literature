@@ -2,14 +2,14 @@
 
 == Articles:
 
-* HashMap, https://habr.com/ru/post/128017/[Структуры данных в картинках. HashMap]
-* LinkedList, https://habr.com/ru/post/127864/[Структуры данных в картинках. LinkedList]
-* ArrayList, https://habr.com/ru/post/128269/[Структуры данных в картинках. ArrayList]
-* LinkedHashMap, https://habr.com/ru/post/129037/[Структуры данных в картинках. LinkedHashMap]
-* Java Collections, https://habr.com/ru/post/237043/[Справочник по Java Collections Framework]
-* Data Structure Interview Questions, https://www.javatpoint.com/data-structure-interview-questions[link]
+* Структуры данных в картинках. HashMap, https://habr.com/ru/post/128017/[habr]
+* Структуры данных в картинках. LinkedList, https://habr.com/ru/post/127864/[habr]
+* Структуры данных в картинках. ArrayList, https://habr.com/ru/post/128269/[habr]
+* Структуры данных в картинках. LinkedHashMap, https://habr.com/ru/post/129037/[habr]
+* Справочник по Java Collections Framework, https://habr.com/ru/post/237043/[habr]
+* Data Structure Interview Questions, https://www.javatpoint.com/data-structure-interview-questions[javatpoint]
 
 == Books:
 
-* Grokking Algorithms - Manning https://www.manning.com/books/grokking-algorithms?query=Grokking%20Algorithms[link]
-https://www.piter.com/collection/all/product/grokaem-algoritmy-illyustrirovannoe-posobie-dlya-programmistov-i-lyubopytstvuyuschih-2[рус]
+* Grokking Algorithms - Manning https://www.manning.com/books/grokking-algorithms?query=Grokking%20Algorithms[manning]
+https://www.piter.com/collection/all/product/grokaem-algoritmy-illyustrirovannoe-posobie-dlya-programmistov-i-lyubopytstvuyuschih-2[piter]
