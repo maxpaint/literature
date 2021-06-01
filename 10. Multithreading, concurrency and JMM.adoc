@@ -29,3 +29,8 @@ https://javarush.ru/groups/posts/2549-iz-8-v-13-polnihy-obzor-versiy-java-chastj
 === Courses:
 
 * Parallel, Concurrent, and Distributed Programming in Java Specialization https://www.coursera.org/specializations/pcdp[coursera]
+
+=== Video
+
+* Java BlockingQueue https://www.youtube.com/watch?v=d3xb1Nj88pw&list=PLL8woMHwr36EDxjUoCzboZjedsnhLP1j4&index=17[youtube]
+
