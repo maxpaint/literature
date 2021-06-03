@@ -9,6 +9,8 @@ https://leanpub.com/whattolookforinacodereview[leanpub]
 
 * The Art of Small Pull Requests, https://essenceofcode.com/2019/10/29/the-art-of-small-pull-requests/[essenceofcode]
 * Code Review Guidelines for Humans, https://phauer.com/2018/code-review-guidelines/[phauer]
+* Как проводить Code Review по версии Google https://habr.com/ru/post/473308/[habr]
+* Часть вторая. Как проходить code review по версии Google https://habr.com/ru/post/474334/[habr]
 
 === Video/Presentation:
 
