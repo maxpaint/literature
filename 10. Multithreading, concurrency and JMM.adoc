@@ -24,7 +24,7 @@ https://javarush.ru/groups/posts/2549-iz-8-v-13-polnihy-obzor-versiy-java-chastj
 
 === Books:
 
-* java concurrency in practice by _Brian Goetz_
+* Java concurrency in practice by _Brian Goetz_
 
 === Courses:
 
