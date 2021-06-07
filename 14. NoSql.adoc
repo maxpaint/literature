@@ -32,3 +32,13 @@
 * DS101: Introduction to Apache Cassandra https://academy.datastax.com/#/online-courses/0da20519-364d-47a9-9916-b59c02175393[academy.datastax.com], https://www.slideshare.net/planetcassandra/cassandra-core-concepts-58477184[presentation]
 * DS201: DataStax Enterprise 6 Foundations of Apache Cassandra https://academy.datastax.com/#/online-courses/6167eee3-0575-4d88-9f80-f2270587ce23[academy.datastax.com]
 * DS220: DataStax Enterprise 6 Practical Application Data Modeling with Apache Cassandra https://academy.datastax.com/#/online-courses/ca2e1209-510b-44a6-97de-d5219d835319[academy.datastax.com]
+
+=== MongoDB
+
+* M100 MongoDB for SQL Pros https://university.mongodb.com/courses/M100/about[university.mongodb.com]
+* M001 MongoDB Basics https://university.mongodb.com/courses/M001/about[university.mongodb.com]
+* M121 The MongoDB Aggregation Framework https://university.mongodb.com/courses/M121/about[university.mongodb.com]
+* M201 MongoDB Performance https://university.mongodb.com/courses/M201/about[university.mongodb.com]
+* M220J MongoDB for Java Developers https://university.mongodb.com/courses/M220J/about[university.mongodb.com]
+* M320 Data Modeling https://university.mongodb.com/courses/M320/about[university.mongodb.com]
+
