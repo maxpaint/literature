@@ -9,6 +9,7 @@
 
 === Video courses:
 
+* Functional Programming Patterns with Java8 by Victor Rentea https://www.youtube.com/watch?v=YnzisJh-ZNI&t=8s[youtube]
 * Java для тестировщиков https://www.youtube.com/watch?v=DKy4KzIn1qg&list=PLwlmWHdR-P_oDOzhOQsK6XX311G0TaWG8[youtube]
 * Головач Java Core https://www.youtube.com/watch?v=xXtDmE5fHf4&list=PLwcDaxeEINaeOqd15C3D0PwotuKknFwxF[youtube]
 * Николай Алименков — Java 8: Хороший, плохой, злой https://www.youtube.com/watch?v=7Iy1hVEXxsU[youtube]
