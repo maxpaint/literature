@@ -1,0 +1,5 @@
+== Java Syntax
+
+== Articles:
+
+Java: передача параметров по значению или по ссылке, https://habr.com/ru/company/otus/blog/551026/[habr]
