@@ -7,6 +7,9 @@
 === Articles:
 
 * A beginner’s guide to database table relationships, https://vladmihalcea.com/database-table-relationships/[vladmihalcea]
+* Что такое База Данных (БД), https://habr.com/ru/post/555760/[habr]
+* Что такое транзакция, https://habr.com/ru/post/537594/[habr]
+
 * ACID:
 ** Требования ACID на простом языке https://habr.com/ru/post/555920/[habr]
 ** Насколько много маркетинга в ACID? https://habr.com/ru/company/otus/blog/494652/[habr]
@@ -18,6 +21,7 @@
 
 * Free course and platform for practice https://www.w3schools.com/sql/[w3schools]
 * Лекции Технопарка. 2 семестр. Базы данных https://habr.com/ru/company/mailru/blog/254073/[habr]
+* Хранение данных. SQL / NoSQL, https://ru.coursera.org/lecture/python-for-web/indieksy-hpGxB[coursera]
 
 === Practice resources:
 * Practice on  https://leetcode.com/problemset/database/[leetcode]
