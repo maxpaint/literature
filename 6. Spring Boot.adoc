@@ -23,5 +23,6 @@ https://www.amazon.com/Pro-Spring-Depth-Guide-Framework-ebook/dp/B076FQ5KFK[amaz
 
 === Articles:
 
-Guide to Spring @Autowired, https://www.baeldung.com/spring-autowire[baeldung]
-Spring – Injecting Collections, https://www.baeldung.com/spring-injecting-collections[baeldung]
+* Guide to Spring @Autowired, https://www.baeldung.com/spring-autowire[baeldung]
+* Spring – Injecting Collections, https://www.baeldung.com/spring-injecting-collections[baeldung]
+* Что такое Spring Framework? От внедрения зависимостей до Web MVC, https://habr.com/ru/post/490586/[habr]
