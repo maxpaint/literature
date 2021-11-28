@@ -27,3 +27,4 @@ https://www.amazon.com/Pro-Spring-Depth-Guide-Framework-ebook/dp/B076FQ5KFK[amaz
 * Spring – Injecting Collections, https://www.baeldung.com/spring-injecting-collections[baeldung]
 * Что такое Spring Framework? От внедрения зависимостей до Web MVC, https://habr.com/ru/post/490586/[habr]
 * Spring MVC — основные принципы, https://habr.com/ru/post/336816/[habr]
+* Spring Boot vs Spring MVC vs Spring — Как они сравниваются, https://habr.com/ru/post/481914/[habr]
