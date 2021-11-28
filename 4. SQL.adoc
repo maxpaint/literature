@@ -17,6 +17,7 @@
 
 === Practice resources:
 * Practice on  https://leetcode.com/problemset/database/[leetcode]
+* PostgreSQL Exercises, https://www.pgexercises.com/[pgexercises]
 
 === Book:
 * Learning SQL, 3rd Edition by _Alan Beaulieu_
