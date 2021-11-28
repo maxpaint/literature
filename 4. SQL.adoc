@@ -19,6 +19,7 @@
 
 * Free course and platform for practice https://www.w3schools.com/sql/[w3schools]
 * Лекции Технопарка. 2 семестр. Базы данных https://habr.com/ru/company/mailru/blog/254073/[habr]
+* Хранение данных. SQL / NoSQL, https://ru.coursera.org/lecture/python-for-web/indieksy-hpGxB[coursera]
 
 === Practice resources:
 * Practice on  https://leetcode.com/problemset/database/[leetcode]
