@@ -1,0 +1,6 @@
+== Java Syntax
+
+== Articles:
+
+* Java: передача параметров по значению или по ссылке, https://habr.com/ru/company/otus/blog/551026/[habr]
+* Thread'ом Java не испортишь, https://javarush.ru/groups/posts/2047-threadom-java-ne-isportishjh--chastjh-i---potoki[javarush]
