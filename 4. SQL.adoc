@@ -1,24 +1,33 @@
 == SQL
 
+=== Documentations
+
+* Документация к PostgreSQL 14.1 https://postgrespro.ru/docs/postgresql/14/index/[postgrespro]
+
 === Articles:
 
 * A beginner’s guide to database table relationships, https://vladmihalcea.com/database-table-relationships/[vladmihalcea]
+* Что такое База Данных (БД), https://habr.com/ru/post/555760/[habr]
+* Что такое транзакция, https://habr.com/ru/post/537594/[habr]
+
 * ACID:
 ** Требования ACID на простом языке https://habr.com/ru/post/555920/[habr]
 ** Насколько много маркетинга в ACID? https://habr.com/ru/company/otus/blog/494652/[habr]
 * Нормализация отношений. Шесть нормальных форм https://habr.com/ru/post/254773/[habr]
 * 10 Rules for a Better SQL Schema, https://www.sisense.com/blog/better-sql-schema/[sisense]
 * К чему может привести ослабление уровня изоляции транзакций в базах данных https://habr.com/ru/company/otus/blog/501294/[habr]
+* Уровни изоляции транзакций с примерами на PostgreSQL, https://habr.com/ru/post/317884/[habr]
 
 === Courses:
 
 * Free course and platform for practice https://www.w3schools.com/sql/[w3schools]
 * Лекции Технопарка. 2 семестр. Базы данных https://habr.com/ru/company/mailru/blog/254073/[habr]
+* Хранение данных. SQL / NoSQL, https://ru.coursera.org/lecture/python-for-web/indieksy-hpGxB[coursera]
 
 === Practice resources:
 * Practice on  https://leetcode.com/problemset/database/[leetcode]
+* PostgreSQL Exercises, https://www.pgexercises.com/[pgexercises]
 
 === Book:
 * Learning SQL, 3rd Edition by _Alan Beaulieu_
 * SQL Performance Explained Everything Developers Need to Know about SQL Performance by _Markus Winand._
-
