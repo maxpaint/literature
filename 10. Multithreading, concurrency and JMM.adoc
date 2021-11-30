@@ -21,7 +21,7 @@ https://habr.com/ru/post/269863/[part 3]
 * Из 8 в 13: полный обзор версий Java,
 https://javarush.ru/groups/posts/2547-iz-8-v-13-polnihy-obzor-versiy-java-chastjh-1[part1],
 https://javarush.ru/groups/posts/2549-iz-8-v-13-polnihy-obzor-versiy-java-chastjh-2[part2]
-* Thread'ом Java не испортишь:
+* Threads:
 https://javarush.ru/groups/posts/2047-threadom-java-ne-isportishjh--chastjh-i---potoki[part1]
 https://javarush.ru/groups/posts/2048-threadom-java-ne-isportishjh--chastjh-ii---sinkhronizacija[part2]
 https://javarush.ru/groups/posts/2060-threadom-java-ne-isportishjh--chastjh-iii---vzaimodeystvie[part3]
