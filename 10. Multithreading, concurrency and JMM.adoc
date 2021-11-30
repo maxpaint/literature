@@ -22,12 +22,12 @@ https://habr.com/ru/post/269863/[part 3]
 https://javarush.ru/groups/posts/2547-iz-8-v-13-polnihy-obzor-versiy-java-chastjh-1[part1],
 https://javarush.ru/groups/posts/2549-iz-8-v-13-polnihy-obzor-versiy-java-chastjh-2[part2]
 * Threads:
-https://javarush.ru/groups/posts/2047-threadom-java-ne-isportishjh--chastjh-i---potoki[part1]
-https://javarush.ru/groups/posts/2048-threadom-java-ne-isportishjh--chastjh-ii---sinkhronizacija[part2]
-https://javarush.ru/groups/posts/2060-threadom-java-ne-isportishjh--chastjh-iii---vzaimodeystvie[part3]
-https://javarush.ru/groups/posts/2065-threadom-java-ne-isportishjh--chastjh-iv---callable-future-i-druzjhja[part4]
-https://javarush.ru/groups/posts/2078-threadom-java-ne-isportishjh--chastjh-v---executor-threadpool-fork-join-pool[part5]
-https://javarush.ru/groups/posts/2111-threadom-java-ne-isportishjh--chastjh-vi---k-barjheru[part6]
+* Part I — Thread: https://javarush.ru/groups/posts/2047[part1]
+* Part II — Synchronization: https://javarush.ru/groups/posts/2048[part2]
+* Part III - Interaction: https://javarush.ru/groups/posts/2060[part3]
+* Part IV - Callable, Future & Friends: https://javarush.ru/groups/posts/2065[part4]
+* Part V - Executor, ThreadPool, Fork Join: https://javarush.ru/groups/posts/2078[part5]
+* Part VI — Semaphore, CountDownLatch, etc: https://javarush.ru/groups/posts/2111[part6]
 
 === Books:
 
