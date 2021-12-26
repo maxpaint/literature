@@ -4,13 +4,13 @@
 
 * Modern Best Practices for Testing in Java https://phauer.com/2019/modern-best-practices-testing-java/[phauer],
 https://habr.com/ru/company/funcorp/blog/517724/[habr]
-* Testing on the Toilet: Cleanly Create Test Data, link
-* Testing on the Toilet: Keep Cause and Effect Clear, link
-* Testing on the Toilet: Don't Put Logic in Tests, link
-* Testing on the Toilet: Keep Tests Focused, link
-* Testing on the Toilet: Test Behaviors, Not Methods, link
-* Testing on the Toilet: Prefer Testing Public APIs Over Implementation-Detail Classes, link
-* Testing on the Toilet: Only Verify Relevant Method Arguments, link
+* Testing on the Toilet: Cleanly Create Test Data, https://testing.googleblog.com/2018/02/testing-on-toilet-cleanly-create-test.html[link]
+* Testing on the Toilet: Keep Cause and Effect Clear, https://testing.googleblog.com/2017/01/testing-on-toilet-keep-cause-and-effect.html[link]
+* Testing on the Toilet: Don't Put Logic in Tests, https://testing.googleblog.com/2014/07/testing-on-toilet-dont-put-logic-in.html[link]
+* Testing on the Toilet: Keep Tests Focused, https://testing.googleblog.com/2018/06/testing-on-toilet-keep-tests-focused.html[link]
+* Testing on the Toilet: Test Behaviors, Not Methods, https://testing.googleblog.com/2014/04/testing-on-toilet-test-behaviors-not.html[link]
+* Testing on the Toilet: Prefer Testing Public APIs Over Implementation-Detail Classes, https://testing.googleblog.com/2015/01/testing-on-toilet-prefer-testing-public.html[link]
+* Testing on the Toilet: Only Verify Relevant Method Arguments, https://testing.googleblog.com/2018/06/testing-on-toilet-only-verify-relevant.html[link]
 * Writing Clean Tests – Naming Matters https://www.petrikainulainen.net/programming/testing/writing-clean-tests-naming-matters/[petrikainulainen]
 * The Practical Test Pyramid, https://martinfowler.com/articles/practical-test-pyramid.html[martinfowler], https://habr.com/ru/post/358950/[habr]
 * Just Say No to More End-to-End Tests, https://testing.googleblog.com/2015/04/just-say-no-to-more-end-to-end-tests.html[testing.googleblog]
