@@ -28,3 +28,4 @@ https://www.amazon.com/Pro-Spring-Depth-Guide-Framework-ebook/dp/B076FQ5KFK[amaz
 * Что такое Spring Framework? От внедрения зависимостей до Web MVC, https://habr.com/ru/post/490586/[habr]
 * Spring MVC — основные принципы, https://habr.com/ru/post/336816/[habr]
 * Spring Boot vs Spring MVC vs Spring — Как они сравниваются, https://habr.com/ru/post/481914/[habr]
+* Spring AOP. Маленький вопросик с собеседования, https://habr.com/ru/post/347752/[habr]
