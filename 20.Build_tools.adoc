@@ -1,0 +1,16 @@
+== Build tools
+
+== Gradle:
+
+=== Articles:
+* Краткое знакомство с Gradle, https://javarush.ru/groups/posts/2126-kratkoe-znakomstvo-s-gradle[javarush]
+
+=== Tutorials:
+* Gradle for Android and Java, free tutorial https://www.udacity.com/course/gradle-for-android-and-java--ud867[udacity]
+* Евгений Борисов — Power of Gradle, https://www.youtube.com/watch?v=NZJTYPLb0iE&ab_channel=JUG.ru[youtube]
+* Free events https://gradle.com/training/[gradle]
+
+== Maven:
+
+* Grokking Algorithms - Manning https://www.manning.com/books/grokking-algorithms?query=Grokking%20Algorithms[manning]
+https://www.piter.com/collection/all/product/grokaem-algoritmy-illyustrirovannoe-posobie-dlya-programmistov-i-lyubopytstvuyuschih-2[piter]
